@@ -1,0 +1,1 @@
+# SoHo Router wireless router config
