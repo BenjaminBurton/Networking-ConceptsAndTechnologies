@@ -2,7 +2,6 @@
 
 ```lua
 az group create --name resourceGroup --location eastus
-```
 
 
 ```lua
