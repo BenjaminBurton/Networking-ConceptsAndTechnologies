@@ -11,3 +11,10 @@ $ az network nsg rule create --resource-group $rg_name --nsg-name my-nsg --name 
 $ az network nic create --resource-group $rg_name --name my-nic --vnet-name $vnet_name --subnet $subnet_name --network-security-group my-nsg --public-ip-address my-public-ip
 $ az vm create --resource-group $rg_name --name my-vm --location eastus --nics my-nic --image UbuntuLTS --admin-username azureuser --generate-ssh-keys --size Standard_B1ls --os-disk-name my-os-disk --storage-sku Standard_LRS --encryption-at-host --encryption-type "AzureDiskEncryption" --encryption-key-source "Microsoft.Keyvault" --encryption-key-vault $keyvault_name --encryption-key-name $key_name --encryption-key-version $key_version
 ```
+.terminal {
+  background-color: #000;
+  color: #fff;
+  font-family: "Courier New", Courier, monospace;
+  padding: 10px;
+  border-radius: 4px;
+}
