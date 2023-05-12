@@ -32,8 +32,10 @@ traffic only from a specific IP address range (e.g., 192.168.0.0/16). You could
 
 create an NACL rule that looks like this:
 
+```js
 * Rule: Allow traffic from 192.168.0.0/16 to 10.0.0.0/24
 * Action: Allow
+```
 
 This rule would allow traffic from any IP address in the 192.168.0.0/16 range to 
 
@@ -51,10 +53,12 @@ rules: one to allow traffic to initiate the connection, and another to allow
 
 traffic to continue the connection. For example:
 
+```js
 * Rule 1: Allow TCP traffic from 192.168.0.0/16 to 10.0.0.0/24 on port 80 (HTTP)
 * Action: Allow
 * Rule 2: Allow TCP traffic from 10.0.0.0/24 to 192.168.0.0/16 on port 80 (HTTP)
 * Action: Allow
+```
 
 These two rules would allow HTTP traffic to flow between the two subnets in both 
 
