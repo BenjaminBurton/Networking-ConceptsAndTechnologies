@@ -68,4 +68,6 @@ Overall, NACLs provide a powerful tool for controlling the flow of traffic in an
 
 out of subnets in a network, and can be a key component of network security.
 
-> In a way, an ACL is like a guest list at an exclusive club.
+```js
+In a way, an ACL is like a guest list at an exclusive club.
+```
