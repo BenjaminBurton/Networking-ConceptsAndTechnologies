@@ -16,3 +16,5 @@ Configure the routers with `IP addresses` on the same `subnet` (e.g., 192.168.1.
 > Test the network by `pinging` the `PCs` from each other and verifying that the `packets` are received.
 
 > These are the steps and configurations for specific network requirements.
+
+![Screenshot](cloudManagement.png)
