@@ -1,3 +1,5 @@
+# Azure Enrypted Network
+
 ```terminal
 $ rg_name="my-resource-group"
 $ vnet_name="my-virtual-network"

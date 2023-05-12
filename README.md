@@ -1,4 +1,4 @@
-# Networking-ConceptsAndTechnologies
+# Networking Concepts And Technologies
 
 
 # Firewalls
@@ -31,4 +31,6 @@
 # VLANs
 > Virtual Local Area Networks (VLANs) are used to segment a network into logical groups of devices. VLANs can help improve network performance, security, and manageability by isolating traffic and controlling access to network resources.
 
-`This is just a brief overview of some of the most important concepts and technologies in networking. There are many more topics to explore, and networking is a constantly evolving field with new technologies and challenges emerging all the time.`
+```js
+This is just a brief overview of some of the most important concepts and technologies in networking. There are many more topics to explore, and networking is a constantly evolving field with new technologies and challenges emerging all the time.
+```
