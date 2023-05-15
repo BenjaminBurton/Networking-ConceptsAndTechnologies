@@ -5,4 +5,4 @@ Virtual Local Area Networks (VLANs) are used to segment a network into logical g
 ```js
     VLAN is the component that connects the Router and the Switch. 
     The router and the switch have to be connected to the same VLAN.
-```
+``
