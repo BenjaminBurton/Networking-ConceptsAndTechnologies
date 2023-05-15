@@ -29,4 +29,4 @@ type in web address to see the chosen site
 
 # Under construction
 
-![Screenshot](DHCP.png)
+![Screenshot](HTTP.png)
