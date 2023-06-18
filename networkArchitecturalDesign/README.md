@@ -32,7 +32,7 @@ sending traffic to the server with the fewest active connections.
 This allows us to have Scalibilty && High Availability
 ```
 
-> Still making adjustments to fit the business needs check back soon
+'Still making adjustments to fit the business needs check back soon'
 
 ## 3 Cloud Providers
 
