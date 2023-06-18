@@ -24,7 +24,12 @@
                                        +--> Router -> Cloud (Internet)
 ```
 ```js
-Request made from PC will immediately hit a firewall filtering the traffic to be passed on to a load balancer which will decide which server should handle the request. It does this by by following predefined Algorithms sending traffic to the server with the fewest active connections. This allows us to have Scalibilty && High Availability
+Request made from PC will immediately hit a firewall 
+filtering the traffic to be passed on to a load balancer 
+which will decide which server should handle the request. 
+It does this by by following predefined Algorithms 
+sending traffic to the server with the fewest active connections. 
+This allows us to have Scalibilty && High Availability
 ```
 
 > `Still making adjustments to fit the business needs check back soon`
